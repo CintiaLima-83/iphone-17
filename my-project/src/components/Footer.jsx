@@ -58,7 +58,7 @@ function Footer() {
           
           </div>
             <p className="text-xs text-gray-500 mt-6">
-              Site criado para fins educacionais - Aula no Youtube
+              Site criado para fins educacionais 
             </p>
         </div>
       

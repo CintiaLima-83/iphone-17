@@ -1,16 +1,60 @@
-# React + Vite
+📱 iPhone 17 - Projeto Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto desenvolvido em **React + TypeScript + Vite**, inspirado em um tutorial do **DevClub**.  
+O objetivo é praticar conceitos de frontend moderno e responsivo, aplicando o que estou aprendendo em meus estudos.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ 🚀 Tecnologias utilizadas
+- React
+- TypeScript
+- Vite
+- CSS (App.css / index.css)
+- GitHub Pages ou Vercel (para deploy)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+ 📂 Estrutura do projeto
+my-project/
+├─ src/
+│   ├─ assets/        # imagens (perfil, projetos)
+│   ├─ components/    # componentes reutilizáveis
+│   ├─ App.tsx        # layout principal
+│   ├─ App.css        # estilos do layout
+│   ├─ index.css      # estilos globais
+│   └─ main.tsx       # ponto de entrada
+├─ index.html
+└─ tsconfig.json
 
-## Expanding the ESLint configuration
+Código
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+ ⚙️ Como rodar localmente
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/CintiaLima-83/iphone-17.git
+Entre na pasta do projeto:
+
+bash
+cd iphone-17/my-project
+Instale as dependências:
+
+bash
+npm install
+Rode o servidor local:
+
+bash
+npm run dev
+Abra no navegador: http://localhost:5173
+
+🌐 Deploy
+O projeto está publicado em: Link do Deploy (https://vercel.com/cintialima-83s-projects/iphone-17)
+
+📸 Screenshots
+Adicione aqui imagens do seu portfólio (coloque em src/assets e referencie).
+
+✨ Autor
+Cintia Lima  
+Estudante e desenvolvedora em formação, com foco em Frontend (React + TypeScript).
+Atualmente cursando e explorando áreas de Backend (Java, Node.js), Cibersegurança e Inteligência Artificial, além de inglês avançado.

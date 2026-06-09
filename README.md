@@ -10,7 +10,11 @@ TypeScript
 Vite
 CSS (App.css / index.css)
 GitHub Pages ou Vercel (para deploy)
+
+
 📂 Estrutura do projeto my-project/
+
+
 ├─ src/  
 ├─ assets/ # imagens (perfil, projetos)  
 ├─ components/ # componentes reutilizáveis 

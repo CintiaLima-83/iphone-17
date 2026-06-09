@@ -16,12 +16,18 @@ GitHub Pages ou Vercel (para deploy)
 
 
 ├─ src/  
+
 ├─ assets/ # imagens (perfil, projetos)  
+
 ├─ components/ # componentes reutilizáveis 
+
 ├─ App.tsx # layout principal 
+
 ├─ App.css # estilos do layout 
+
 ├─ index.css # estilos globais 
 └─ main.tsx # ponto de entrada 
+
 ├─ index.html
 └─ tsconfig.json
 

@@ -1,18 +1,18 @@
 # 📱 iPhone 17 Pro - Landing Page
 
-Landing Page desenvolvida com React, TypeScript e Vite inspirada no design moderno da Apple.
+Landing Page desenvolvida com **React**, **TypeScript** e **Vite**, inspirada no design moderno da Apple.
 
 O projeto foi criado para praticar desenvolvimento frontend, componentização, responsividade e criação de interfaces modernas.
 
 ## 🚀 Tecnologias
 
-- React
-- TypeScript
-- Vite
-- CSS3
-- Vercel
+* React
+* TypeScript
+* Vite
+* CSS3
+* Vercel
 
-## 📂 Estrutura
+## 📂 Estrutura do Projeto
 
 ```text
 src/
@@ -22,32 +22,46 @@ src/
 ├─ App.css
 ├─ index.css
 └─ main.tsx
-⚙️ Executando localmente
+```
+
+## ⚙️ Executando Localmente
 
 Clone o repositório:
 
+```bash
 git clone https://github.com/CintiaLima-83/iphone-17.git
+```
 
-Entre na pasta:
+Entre na pasta do projeto:
 
+```bash
 cd iphone-17
+```
 
 Instale as dependências:
 
+```bash
 npm install
+```
 
 Execute o projeto:
 
+```bash
 npm run dev
+```
 
-Acesse:
+Acesse no navegador:
 
+```text
 http://localhost:5173
-🌐 Deploy
+```
+
+## 🌐 Deploy
 
 Aplicação disponível em:
 
 https://iphone-17-iota.vercel.app
+
 ## 📸 Preview
 
 ### Hero Section
@@ -62,8 +76,11 @@ https://iphone-17-iota.vercel.app
 
 ![Design](./screenshots/design.png)
 
-✨ Autor
+## ✨ Autor
 
-Cintia Lima
+**Cintia Lima**
 
-Desenvolvedora Frontend em formação, com foco em React, TypeScript e Next.js. Atualmente expandindo conhecimentos em Backend, Cibersegurança, Inteligência Artificial e Inglês.
+Desenvolvedora Frontend em formação, com foco em React, TypeScript e Next.js.
+
+Atualmente expandindo conhecimentos em Backend, Cibersegurança, Inteligência Artificial e Inglês.
+

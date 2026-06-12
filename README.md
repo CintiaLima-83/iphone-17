@@ -1,53 +1,60 @@
-📱 iPhone 17 - Projeto Frontend
+# 📱 iPhone 17 Pro - Landing Page
 
-Este é um projeto desenvolvido em React + TypeScript + Vite, inspirado em um tutorial do DevClub.
-O objetivo é praticar conceitos de frontend moderno e responsivo, aplicando o que estou aprendendo em meus estudos.
+Landing Page desenvolvida com React, TypeScript e Vite inspirada no design moderno da Apple.
 
-🚀 Tecnologias utilizadas
+O projeto foi criado para praticar desenvolvimento frontend, componentização, responsividade e criação de interfaces modernas.
 
-React
-TypeScript
-Vite
-CSS (App.css / index.css)
-GitHub Pages ou Vercel (para deploy)
+## 🚀 Tecnologias
 
+- React
+- TypeScript
+- Vite
+- CSS3
+- Vercel
 
-📂 Estrutura do projeto my-project/
+## 📂 Estrutura
 
+```text
+src/
+├─ assets/
+├─ components/
+├─ App.tsx
+├─ App.css
+├─ index.css
+└─ main.tsx
+⚙️ Executando localmente
 
-├─ src/  
+Clone o repositório:
 
-├─ assets/ # imagens (perfil, projetos)  
-
-├─ components/ # componentes reutilizáveis 
-
-├─ App.tsx # layout principal 
-
-├─ App.css # estilos do layout 
-
-├─ index.css # estilos globais 
-└─ main.tsx # ponto de entrada 
-
-├─ index.html
-└─ tsconfig.json
-
-Código
-
-⚙️ Como rodar localmente
-
-Clone este repositório:
 git clone https://github.com/CintiaLima-83/iphone-17.git
-Entre na pasta do projeto:
 
-bash cd iphone-17/my-project Instale as dependências:
+Entre na pasta:
 
-bash npm install Rode o servidor local:
+cd iphone-17
 
-bash npm run dev Abra no navegador: http://localhost:5173
+Instale as dependências:
 
-🌐 Deploy O projeto está publicado em: Link do Deploy (https://vercel.com/cintialima-83s-projects/iphone-17)
+npm install
 
-📸 Screenshots Adicione aqui imagens do seu portfólio (coloque em src/assets e referencie).
+Execute o projeto:
 
-✨ Autor Cintia Lima
-Estudante e desenvolvedora em formação, com foco em Frontend (React + TypeScript). Atualmente cursando e explorando áreas de Backend (Java, Node.js), Cibersegurança e Inteligência Artificial, além de inglês avançado.
+npm run dev
+
+Acesse:
+
+http://localhost:5173
+🌐 Deploy
+
+Aplicação disponível em:
+
+https://iphone-17-iota.vercel.app
+
+📸 Preview
+
+Adicione aqui screenshots do projeto.
+
+✨ Autor
+
+Cintia Lima
+
+Desenvolvedora Frontend em formação, com foco em React, TypeScript e Next.js. Atualmente expandindo conhecimentos em Backend, Cibersegurança, Inteligência Artificial e Inglês.

@@ -48,11 +48,19 @@ http://localhost:5173
 Aplicação disponível em:
 
 https://iphone-17-iota.vercel.app
+## 📸 Preview
 
-📸 Preview
+### Hero Section
 
-Adicione aqui screenshots do projeto.
+![Hero](./screenshots/hero.png)
 
+### Informações do Produto
+
+![Info](./screenshots/info.png)
+
+### Design
+
+![Design](./screenshots/design.png)
 ✨ Autor
 
 Cintia Lima

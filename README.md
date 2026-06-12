@@ -52,15 +52,16 @@ https://iphone-17-iota.vercel.app
 
 ### Hero Section
 
-![Hero](./screenshots/hero.png)
+![Hero](public/hero.png)
 
 ### Informações do Produto
 
-![Info](./screenshots/info.png)
+![Info](public/info.png)
 
 ### Design
 
-![Design](./screenshots/design.png)
+![Design](public/design.png)
+
 ✨ Autor
 
 Cintia Lima

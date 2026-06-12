@@ -52,15 +52,15 @@ https://iphone-17-iota.vercel.app
 
 ### Hero Section
 
-![Hero](public/hero.png)
+![Hero](./screenshots/hero.png)
 
 ### Informações do Produto
 
-![Info](public/info.png)
+![Info](./screenshots/info.png)
 
 ### Design
 
-![Design](public/design.png)
+![Design](./screenshots/design.png)
 
 ✨ Autor
 

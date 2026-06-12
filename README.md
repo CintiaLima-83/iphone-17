@@ -51,7 +51,17 @@ https://iphone-17-iota.vercel.app
 
 📸 Preview
 
-Adicione aqui screenshots do projeto.
+### Hero Section
+
+![Hero](./screenshots/hero.png)
+
+### Informações do Produto
+
+![Info](./screenshots/info.png)
+
+### Design
+
+![Design](./screenshots/design.png)
 
 ✨ Autor
 
